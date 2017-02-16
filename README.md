@@ -1,5 +1,5 @@
 # DragonBallBlog
-Simple Java Web App Blog with Spring and Hibernate
+Simple Java Web App Blog with Spring MVC
 
 ![db1](https://cloud.githubusercontent.com/assets/24231815/22399263/d0f206da-e5a1-11e6-9e81-003bc620e119.png)
 
